@@ -3,6 +3,10 @@ package com.group37;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Test class for NormalEnemy.
+ * Contains unit tests to verify the behavior of NormalEnemy instances.
+ */
 public class NormalEnemyTest {
 
     @Test
